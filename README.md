@@ -1,10 +1,10 @@
 # Tanakh Grepper
 
 ## To Do
-[ ] Replace JSON BIBLE files to include (possibly exclusive) cantillation marks from the Letteris Tanach.
-[ ] Replace Sefaria links to Hatanach.
-[ ] Fill out this README
-[ ] Better handling of languages
+[ ] Replace JSON BIBLE files to include (possibly exclusive) cantillation marks from the Letteris Tanach.<br>
+[ ] Replace Sefaria links to Hatanach.<br>
+[ ] Fill out this README<br>
+[ ] Better handling of languages<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
