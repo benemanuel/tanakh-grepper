@@ -1,6 +1,8 @@
 # Tanakh Grepper
 
 ## To Do
+[ ] Replace JSON BIBLE files to include (possibly exclusive) cantillation marks from the Letteris Tanach.
+[ ] Replace Sefaria links to Hatanach.
 [ ] Fill out this README
 [ ] Better handling of languages
 
